@@ -1,0 +1,254 @@
+2023-08-25 07:47:28,150 - API queries_quota: 60
+2023-08-25 07:50:02,417 - API queries_quota: 60
+2023-08-25 07:50:39,402 - API queries_quota: 60
+2023-08-25 07:50:41,496 - Restaurant: Domino's Pizza, Address: Ground Floor, "Embassy Tech Square", Counter No 1, Food court, Cessna Business Park, Outer Ring Road, Kadubeesanahalli, Varthur Hobli, Bengaluru, Cost for Two: 400.0 INR
+2023-08-25 07:50:43,846 - Restaurant: MOJO Pizza- 2X Toppings | Order Pizza Online, Address: 129, Marathahalli - Sarjapur Outer Ring Rd Devarabisanahalli, Bellandur, Kadabeesanahalli, Marathahalli - Sarjapur Outer Ring Road, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 07:50:45,534 - Restaurant: BOX8- Desi Meals | Order Food Online, Address: 129, Marathahalli - Sarjapur Outer Ring Rd Devarabisanahalli, Bellandur, Kadabeesanahalli, Marathahalli - Sarjapur Outer Ring Road, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 07:50:46,946 - Restaurant: Nook, Address: Cessna Business Park, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 07:50:48,507 - Restaurant: W XYZ(SM) Bar, Address: Cessna Business Park, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 07:50:49,558 - Restaurant: Float Rooftop Lounge, Address: 3 Block, 12 20/5, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 199.0 INR
+2023-08-25 07:50:51,079 - Restaurant: Domino's Pizza, Address: Food counter space - unit no 4, Ground floor of block - D, Embassy Tech Village Outer Ring Road, Hobli, Devarabeesnahalli, Varthur, Cost for Two: 400.0 INR
+2023-08-25 07:50:53,253 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 07:50:55,282 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 07:50:57,068 - Restaurant: Swathi Deluxe, Address: 84, 1, Panathur Main Road, Kadubeesanahalli, Panathur, Bengaluru, Cost for Two: 500.0 INR
+2023-08-25 07:50:58,459 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 07:50:59,657 - Restaurant: Pizza Hut, Address: No 20/5, Narayan Swamy Building, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 249.0 INR
+2023-08-25 07:51:01,827 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 07:51:03,822 - Restaurant: Mirchi Fast Food Restaurant, Address: WMMR+R6H, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 07:51:05,518 - Restaurant: Gowdru mane oota, Address: Kaverappa Layout, Kadubeesanahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 07:51:07,119 - Restaurant: P.R.K.Biriyani, Address: WMMR+X9G, Service Road, Kaverappa Layout, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 07:51:09,209 - Restaurant: Zaika House, Address: Umiya Business Bay, Kaverappa Layout, Kadubeesanahalli, Kadabeesanahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 07:51:11,167 - Restaurant: Abhiruchi Donne Biryani, Address: WMMR+W75, Service Road, Kadubeesanahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 07:51:12,258 - Restaurant: Absolute shawarma, Address: WMMV+VCX, Kaverappa Layout, Kadubeesanahalli, Kadabeesanahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 07:51:13,780 - Restaurant: Andhra Chilly, Address: Wells Fargo Center Tower-1, 1st Floor, Wells Fargo, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 07:56:32,085 - API queries_quota: 60
+2023-08-25 08:10:39,759 - API queries_quota: 60
+2023-08-25 08:11:15,122 - API queries_quota: 60
+2023-08-25 08:30:37,101 - API queries_quota: 60
+2023-08-25 08:33:38,206 - API queries_quota: 60
+2023-08-25 08:33:51,250 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 08:33:53,382 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 08:33:55,704 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 08:33:58,243 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 08:34:00,332 - Restaurant: Mirchi Fast Food Restaurant, Address: WMMR+R6H, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 08:34:11,439 - API queries_quota: 60
+2023-08-25 08:34:25,675 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 08:34:27,790 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 08:34:29,864 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 08:34:33,307 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 08:34:34,844 - Restaurant: Mirchi Fast Food Restaurant, Address: WMMR+R6H, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 08:59:44,634 - API queries_quota: 60
+2023-08-25 08:59:59,788 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:00:01,375 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:00:06,431 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:00:08,744 - Restaurant: Mirchi Fast Food Restaurant, Address: WMMR+R6H, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:01:47,934 - API queries_quota: 60
+2023-08-25 09:01:48,986 - API queries_quota: 60
+2023-08-25 09:01:50,610 - Restaurant: Chef's Camp, Address: XP38+R53, Green Garden Layout, Silver Springs Layout, Munnekollal, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:01:51,193 - Restaurant: Chef's Camp, Address: XP38+R53, Green Garden Layout, Silver Springs Layout, Munnekollal, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:01:52,370 - Restaurant: THE LASSI CORNER, Address: Shop #4, Site No 47, Gurukrapa Complex, Sai Baba Temple Road, Silver Springs Layout, Munnekollal, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 09:01:52,859 - Restaurant: THE LASSI CORNER, Address: Shop #4, Site No 47, Gurukrapa Complex, Sai Baba Temple Road, Silver Springs Layout, Munnekollal, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 09:01:53,307 - Restaurant: Tinkerscoop, Address: no.50, 5th Cross Road, Green Garden Layout, Silver Springs Layout, Munnekollal, Bengaluru, Cost for Two: 148.0 INR
+2023-08-25 09:01:54,004 - Restaurant: Tinkerscoop, Address: no.50, 5th Cross Road, Green Garden Layout, Silver Springs Layout, Munnekollal, Bengaluru, Cost for Two: 148.0 INR
+2023-08-25 09:01:55,639 - Restaurant: New East Delicious, Address: Muni Reddy Building, New East Delicious shop no.1 Ground, opposite 32 Smiles Dental Clinic, near Family Mall, Sai Baba Temple Road, Kundalahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:01:55,953 - Restaurant: New East Delicious, Address: Muni Reddy Building, New East Delicious shop no.1 Ground, opposite 32 Smiles Dental Clinic, near Family Mall, Sai Baba Temple Road, Kundalahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:01:59,566 - Restaurant: MOJO Pizza- 2X Toppings | Order Pizza Online, Address: 5/3, Kundalahalli Gate Varthur Main Road, Opposite SKR Kalyana Mantapa, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 09:02:00,304 - Restaurant: MOJO Pizza- 2X Toppings | Order Pizza Online, Address: 5/3, Kundalahalli Gate Varthur Main Road, Opposite SKR Kalyana Mantapa, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 09:02:01,321 - Restaurant: 99 Caffe, Address: 39, 60 Feet Road, Lakshminarayana Pura, AECS Layout, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:02:01,982 - Restaurant: 99 Caffe, Address: 39, 60 Feet Road, Lakshminarayana Pura, AECS Layout, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:02:04,680 - Restaurant: Suguna chicken, Address: 560066, Laxminarayana Layout, Thubarahalli, Munnekollal, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:02:05,676 - Restaurant: Suguna chicken, Address: 560066, Laxminarayana Layout, Thubarahalli, Munnekollal, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:03:04,221 - API queries_quota: 60
+2023-08-25 09:03:06,484 - Restaurant: Chef's Camp, Address: XP38+R53, Green Garden Layout, Silver Springs Layout, Munnekollal, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:03:08,117 - Restaurant: THE LASSI CORNER, Address: Shop #4, Site No 47, Gurukrapa Complex, Sai Baba Temple Road, Silver Springs Layout, Munnekollal, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 09:03:09,146 - Restaurant: Tinkerscoop, Address: no.50, 5th Cross Road, Green Garden Layout, Silver Springs Layout, Munnekollal, Bengaluru, Cost for Two: 148.0 INR
+2023-08-25 09:03:11,127 - Restaurant: New East Delicious, Address: Muni Reddy Building, New East Delicious shop no.1 Ground, opposite 32 Smiles Dental Clinic, near Family Mall, Sai Baba Temple Road, Kundalahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:03:15,662 - Restaurant: MOJO Pizza- 2X Toppings | Order Pizza Online, Address: 5/3, Kundalahalli Gate Varthur Main Road, Opposite SKR Kalyana Mantapa, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 09:03:17,310 - Restaurant: 99 Caffe, Address: 39, 60 Feet Road, Lakshminarayana Pura, AECS Layout, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:03:20,528 - Restaurant: Suguna chicken, Address: 560066, Laxminarayana Layout, Thubarahalli, Munnekollal, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:05:02,480 - API queries_quota: 60
+2023-08-25 09:05:04,898 - Restaurant: Chef's Camp, Address: XP38+R53, Green Garden Layout, Silver Springs Layout, Munnekollal, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:05:06,497 - Restaurant: THE LASSI CORNER, Address: Shop #4, Site No 47, Gurukrapa Complex, Sai Baba Temple Road, Silver Springs Layout, Munnekollal, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 09:05:07,759 - Restaurant: Tinkerscoop, Address: no.50, 5th Cross Road, Green Garden Layout, Silver Springs Layout, Munnekollal, Bengaluru, Cost for Two: 148.0 INR
+2023-08-25 09:05:09,668 - Restaurant: New East Delicious, Address: Muni Reddy Building, New East Delicious shop no.1 Ground, opposite 32 Smiles Dental Clinic, near Family Mall, Sai Baba Temple Road, Kundalahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:05:14,049 - Restaurant: MOJO Pizza- 2X Toppings | Order Pizza Online, Address: 5/3, Kundalahalli Gate Varthur Main Road, Opposite SKR Kalyana Mantapa, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 09:05:15,672 - Restaurant: 99 Caffe, Address: 39, 60 Feet Road, Lakshminarayana Pura, AECS Layout, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:05:19,130 - Restaurant: Suguna chicken, Address: 560066, Laxminarayana Layout, Thubarahalli, Munnekollal, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:19:18,841 - API queries_quota: 60
+2023-08-25 09:19:20,932 - Restaurant: Nandhana Palace - Andhra Style - Marathahalli, Address: 1st Floor, next to Relince Fresh, Outer Ring Road, Kasavanahalli Village, Marathahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 09:19:21,708 - Restaurant: Domino's Pizza, Address: Survey No. 78/5, Sri Gowri Krishna Arcade, opp. Rama Temple, 1, Bellandur Main Road, Bellandur, Bengaluru, Cost for Two: 400.0 INR
+2023-08-25 09:19:24,081 - Restaurant: Domino's Pizza, Address: Ground Floor, "Embassy Tech Square", Counter No 1, Food court, Cessna Business Park, Outer Ring Road, Kadubeesanahalli, Varthur Hobli, Bengaluru, Cost for Two: 400.0 INR
+2023-08-25 09:19:26,062 - Restaurant: MOJO Pizza- 2X Toppings | Order Pizza Online, Address: 129, Marathahalli - Sarjapur Outer Ring Rd Devarabisanahalli, Bellandur, Kadabeesanahalli, Marathahalli - Sarjapur Outer Ring Road, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 400.0 INR
+2023-08-25 09:19:27,233 - Restaurant: BOX8- Desi Meals | Order Food Online, Address: 129, Marathahalli - Sarjapur Outer Ring Rd Devarabisanahalli, Bellandur, Kadabeesanahalli, Marathahalli - Sarjapur Outer Ring Road, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 09:19:27,853 - Restaurant: Nook, Address: Cessna Business Park, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 09:19:29,093 - Restaurant: W XYZ(SM) Bar, Address: Cessna Business Park, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 09:19:29,857 - Restaurant: Float Rooftop Lounge, Address: 3 Block, 12 20/5, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 09:19:30,644 - Restaurant: Domino's Pizza, Address: Food counter space - unit no 4, Ground floor of block - D, Embassy Tech Village Outer Ring Road, Hobli, Devarabeesnahalli, Varthur, Cost for Two: 400.0 INR
+2023-08-25 09:19:31,970 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:19:33,354 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:19:34,928 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 09:19:35,986 - Restaurant: Spice It - Ibis Hotel, Address: ibis Bengaluru Outer Ring Road, Opposite RMZ Ecospace Business Park, Marathahalli - Sarjapur Outer Ring Road, Bellandur, Bengaluru, Cost for Two: 80.0 INR
+2023-08-25 09:19:37,451 - Restaurant: California Burrito Mexican Grill @ Ecoworld Building, Address: 20/2 & 21, Adarsh Palm Retreat, Bellandur, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 09:19:38,233 - Restaurant: Fenix - Sunray Hotel, Address: WMRX+X7Q, Sunray Hotel, Opposite Prestige Tech Park, Marathahalli, Outer Ring Road, Kadubisanahalli, Kadubeesanahalli, Marathahalli, Cost for Two: 250.0 INR
+2023-08-25 09:19:39,510 - Restaurant: MoMo Café - Courtyard by Marriott, Address: Sarjapur Main Road, Outer Ring Road, Marathahalli, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 09:19:40,441 - Restaurant: Meat And Eat, Address: 57, Panathur Main Road, Kadubeesanahalli, Panathur, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 09:19:42,163 - Restaurant: Five Star Chicken - Kadubeesanahali, Address: 194, Panathur Main Road, Kadubeesanahalli, Panathur, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:21:09,956 - API queries_quota: 60
+2023-08-25 09:27:06,817 - API queries_quota: 60
+2023-08-25 09:28:52,617 - API queries_quota: 60
+2023-08-25 09:30:20,575 - API queries_quota: 60
+2023-08-25 09:30:37,076 - Restaurant: Uttam Sagar, Address: Dodda Banaswadi Main Road, HRBR Layout 1st Block, Chowdeswari Layout, Subbayanapalya, Banaswadi, Bengaluru, Cost for Two: 150.0 INR
+2023-08-25 09:30:38,397 - Restaurant: Tamarind Restaurant, Address: next to Fire Station, Banaswadi Main Road, next to Fire Station, 100 Feet Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:30:41,831 - Restaurant: Curries & Pickles, Address: 2M54+QM5, Lal Bahadur Nagar, East of NGEF Layout, Bennigana Halli, Bengaluru, Cost for Two: 150.0 INR
+2023-08-25 09:30:43,360 - Restaurant: Chinese Fast Food, Address: 2J6X+574, Banaswadi, Bengaluru, Cost for Two: 150.0 INR
+2023-08-25 09:30:44,529 - Restaurant: Vinayaka Hotel, Address: Banasawadi, Banaswadi, Bengaluru, Cost for Two: 149.0 INR
+2023-08-25 09:30:45,749 - Restaurant: Dinesh K, Address: Banaswadi, Bengaluru, Cost for Two: 150.0 INR
+2023-08-25 09:30:51,592 - API queries_quota: 60
+2023-08-25 09:30:53,166 - API queries_quota: 60
+2023-08-25 09:36:43,553 - API queries_quota: 60
+2023-08-25 09:36:58,374 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:37:00,462 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:37:03,432 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 09:37:06,370 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:37:07,952 - Restaurant: Mirchi Fast Food Restaurant, Address: WMMR+R6H, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:39:47,112 - API queries_quota: 60
+2023-08-25 09:40:01,693 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:42:43,584 - API queries_quota: 60
+2023-08-25 09:42:53,247 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:45:07,610 - API queries_quota: 60
+2023-08-25 09:45:21,237 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:55:46,264 - API queries_quota: 60
+2023-08-25 09:56:01,772 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:56:04,182 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:56:06,446 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 09:56:11,520 - Restaurant: Mirchi Fast Food Restaurant, Address: WMMR+R6H, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:56:16,659 - Restaurant: Abhiruchi Donne Biryani, Address: WMMR+W75, Service Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:57:27,307 - API queries_quota: 60
+2023-08-25 09:57:43,967 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:57:46,163 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:57:49,009 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 09:57:52,223 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 09:57:54,525 - Restaurant: Mirchi Fast Food Restaurant, Address: WMMR+R6H, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:05:40,888 - API queries_quota: 60
+2023-08-25 10:05:54,259 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:05:56,361 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:05:59,358 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 10:06:02,934 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:09:18,791 - API queries_quota: 60
+2023-08-25 10:09:28,658 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:09:30,139 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:09:31,738 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 10:09:34,009 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:09:37,208 - Restaurant: P.R.K.Biriyani, Address: WMMR+X9G, Service Road, Kaverappa Layout, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:10:17,847 - API queries_quota: 60
+2023-08-25 10:10:27,840 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:10:29,091 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:10:30,865 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 10:10:34,121 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:12:07,632 - API queries_quota: 60
+2023-08-25 10:12:17,025 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:12:18,600 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:12:20,508 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 10:12:23,647 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:20:03,653 - API queries_quota: 60
+2023-08-25 10:20:18,022 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:20:19,813 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:20:21,203 - Restaurant: Swathi Deluxe, Address: 84, 1, Panathur Main Road, Kadubeesanahalli, Panathur, Bengaluru, Cost for Two: 150.0 INR
+2023-08-25 10:20:22,171 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 10:20:25,792 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:22:58,672 - API queries_quota: 60
+2023-08-25 10:32:13,125 - API queries_quota: 60
+2023-08-25 10:32:31,762 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:32:33,781 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 10:32:37,197 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:32:46,926 - Restaurant: Absolute shawarma, Address: WMMV+VCX, Kaverappa Layout, Kadubeesanahalli, Kadabeesanahalli, Bengaluru, Cost for Two: 140.0 INR
+2023-08-25 10:37:10,975 - API queries_quota: 60
+2023-08-25 10:37:19,333 - Restaurant: BOX8- Desi Meals | Order Food Online, Address: 129, Marathahalli - Sarjapur Outer Ring Rd Devarabisanahalli, Bellandur, Kadabeesanahalli, Marathahalli - Sarjapur Outer Ring Road, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 10:37:20,905 - Restaurant: Nook, Address: Cessna Business Park, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:37:23,665 - Restaurant: Float Rooftop Lounge, Address: 3 Block, 12 20/5, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 10:37:27,477 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 10:37:29,269 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:37:31,653 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 10:37:34,844 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:37:36,559 - Restaurant: Mirchi Fast Food Restaurant, Address: WMMR+R6H, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:37:38,031 - Restaurant: Gowdru mane oota, Address: Kaverappa Layout, Kadubeesanahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:37:41,016 - Restaurant: Zaika House, Address: Umiya Business Bay, Kaverappa Layout, Kadubeesanahalli, Kadabeesanahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:37:43,007 - Restaurant: Abhiruchi Donne Biryani, Address: WMMR+W75, Service Road, Kadubeesanahalli, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 10:37:44,223 - Restaurant: Absolute shawarma, Address: WMMV+VCX, Kaverappa Layout, Kadubeesanahalli, Kadabeesanahalli, Bengaluru, Cost for Two: 140.0 INR
+2023-08-25 10:37:45,332 - Restaurant: Andhra Chilly, Address: Wells Fargo Center Tower-1, 1st Floor, Wells Fargo, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:39:04,217 - API queries_quota: 60
+2023-08-25 10:39:06,450 - Restaurant: Nandhana Palace - Andhra Style - Marathahalli, Address: 1st Floor, next to Relince Fresh, Outer Ring Road, Kasavanahalli Village, Marathahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:39:07,929 - Restaurant: Domino's Pizza, Address: Survey No. 78/5, Sri Gowri Krishna Arcade, opp. Rama Temple, 1, Bellandur Main Road, Bellandur, Bengaluru, Cost for Two: 400.0 INR
+2023-08-25 10:39:10,989 - Restaurant: Domino's Pizza, Address: Ground Floor, "Embassy Tech Square", Counter No 1, Food court, Cessna Business Park, Outer Ring Road, Kadubeesanahalli, Varthur Hobli, Bengaluru, Cost for Two: 400.0 INR
+2023-08-25 10:39:15,781 - Restaurant: BOX8- Desi Meals | Order Food Online, Address: 129, Marathahalli - Sarjapur Outer Ring Rd Devarabisanahalli, Bellandur, Kadabeesanahalli, Marathahalli - Sarjapur Outer Ring Road, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 10:39:17,130 - Restaurant: Nook, Address: Cessna Business Park, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:39:20,340 - Restaurant: Float Rooftop Lounge, Address: 3 Block, 12 20/5, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 10:39:21,451 - Restaurant: Domino's Pizza, Address: Food counter space - unit no 4, Ground floor of block - D, Embassy Tech Village Outer Ring Road, Hobli, Devarabeesnahalli, Varthur, Cost for Two: 400.0 INR
+2023-08-25 10:41:27,106 - API queries_quota: 60
+2023-08-25 10:41:29,827 - Restaurant: Nandhana Palace - Andhra Style - Marathahalli, Address: 1st Floor, next to Relince Fresh, Outer Ring Road, Kasavanahalli Village, Marathahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:41:31,170 - Restaurant: Domino's Pizza, Address: Survey No. 78/5, Sri Gowri Krishna Arcade, opp. Rama Temple, 1, Bellandur Main Road, Bellandur, Bengaluru, Cost for Two: 400.0 INR
+2023-08-25 10:41:34,786 - Restaurant: Domino's Pizza, Address: Ground Floor, "Embassy Tech Square", Counter No 1, Food court, Cessna Business Park, Outer Ring Road, Kadubeesanahalli, Varthur Hobli, Bengaluru, Cost for Two: 400.0 INR
+2023-08-25 10:41:40,366 - Restaurant: BOX8- Desi Meals | Order Food Online, Address: 129, Marathahalli - Sarjapur Outer Ring Rd Devarabisanahalli, Bellandur, Kadabeesanahalli, Marathahalli - Sarjapur Outer Ring Road, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 10:41:41,837 - Restaurant: Nook, Address: Cessna Business Park, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:41:45,136 - Restaurant: Float Rooftop Lounge, Address: 3 Block, 12 20/5, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 10:41:46,468 - Restaurant: Domino's Pizza, Address: Food counter space - unit no 4, Ground floor of block - D, Embassy Tech Village Outer Ring Road, Hobli, Devarabeesnahalli, Varthur, Cost for Two: 400.0 INR
+2023-08-25 10:41:48,153 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 10:41:50,176 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:41:52,592 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 10:41:54,298 - Restaurant: Spice It - Ibis Hotel, Address: ibis Bengaluru Outer Ring Road, Opposite RMZ Ecospace Business Park, Marathahalli - Sarjapur Outer Ring Road, Bellandur, Bengaluru, Cost for Two: 80.0 INR
+2023-08-25 10:41:56,662 - Restaurant: California Burrito Mexican Grill @ Ecoworld Building, Address: 20/2 & 21, Adarsh Palm Retreat, Bellandur, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:41:58,380 - Restaurant: Fenix - Sunray Hotel, Address: WMRX+X7Q, Sunray Hotel, Opposite Prestige Tech Park, Marathahalli, Outer Ring Road, Kadubisanahalli, Kadubeesanahalli, Marathahalli, Cost for Two: 250.0 INR
+2023-08-25 10:41:59,812 - Restaurant: MoMo Café - Courtyard by Marriott, Address: Sarjapur Main Road, Outer Ring Road, Marathahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:42:00,980 - Restaurant: Meat And Eat, Address: 57, Panathur Main Road, Kadubeesanahalli, Panathur, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:42:03,288 - Restaurant: Five Star Chicken - Kadubeesanahali, Address: 194, Panathur Main Road, Kadubeesanahalli, Panathur, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:55:44,402 - API queries_quota: 60
+2023-08-25 10:55:47,460 - Restaurant: Nandhana Palace - Andhra Style - Marathahalli, Address: 1st Floor, next to Relince Fresh, Outer Ring Road, Kasavanahalli Village, Marathahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:55:56,334 - Restaurant: BOX8- Desi Meals | Order Food Online, Address: 129, Marathahalli - Sarjapur Outer Ring Rd Devarabisanahalli, Bellandur, Kadabeesanahalli, Marathahalli - Sarjapur Outer Ring Road, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 10:55:57,282 - Restaurant: Nook, Address: Cessna Business Park, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:56:00,819 - Restaurant: Float Rooftop Lounge, Address: 3 Block, 12 20/5, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 10:56:04,440 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 10:56:09,255 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 10:56:11,277 - Restaurant: Spice It - Ibis Hotel, Address: ibis Bengaluru Outer Ring Road, Opposite RMZ Ecospace Business Park, Marathahalli - Sarjapur Outer Ring Road, Bellandur, Bengaluru, Cost for Two: 80.0 INR
+2023-08-25 10:56:14,076 - Restaurant: California Burrito Mexican Grill @ Ecoworld Building, Address: 20/2 & 21, Adarsh Palm Retreat, Bellandur, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:56:15,627 - Restaurant: Fenix - Sunray Hotel, Address: WMRX+X7Q, Sunray Hotel, Opposite Prestige Tech Park, Marathahalli, Outer Ring Road, Kadubisanahalli, Kadubeesanahalli, Marathahalli, Cost for Two: 250.0 INR
+2023-08-25 10:56:17,059 - Restaurant: MoMo Café - Courtyard by Marriott, Address: Sarjapur Main Road, Outer Ring Road, Marathahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:56:18,565 - Restaurant: Meat And Eat, Address: 57, Panathur Main Road, Kadubeesanahalli, Panathur, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 10:56:20,948 - Restaurant: Five Star Chicken - Kadubeesanahali, Address: 194, Panathur Main Road, Kadubeesanahalli, Panathur, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 10:59:47,267 - API queries_quota: 60
+2023-08-25 11:00:03,915 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 11:00:19,510 - Restaurant: Absolute shawarma, Address: WMMV+VCX, Kaverappa Layout, Kadubeesanahalli, Kadabeesanahalli, Bengaluru, Cost for Two: 140.0 INR
+2023-08-25 11:02:48,508 - API queries_quota: 60
+2023-08-25 11:03:00,621 - Restaurant: BOX8- Desi Meals | Order Food Online, Address: 129, Marathahalli - Sarjapur Outer Ring Rd Devarabisanahalli, Bellandur, Kadabeesanahalli, Marathahalli - Sarjapur Outer Ring Road, Devarabisanahalli, Bellandur, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 11:03:01,651 - Restaurant: Nook, Address: Cessna Business Park, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 11:03:05,666 - Restaurant: Float Rooftop Lounge, Address: 3 Block, 12 20/5, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 11:03:09,226 - Restaurant: The Boozy Griffin Marathahalli, Address: 5th Floor, Swamy Lagoto Building, above Kia Motors, 7, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 11:03:11,036 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 11:03:13,577 - Restaurant: Pelican Pub, Address: 84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 11:03:15,752 - Restaurant: Spice It - Ibis Hotel, Address: ibis Bengaluru Outer Ring Road, Opposite RMZ Ecospace Business Park, Marathahalli - Sarjapur Outer Ring Road, Bellandur, Bengaluru, Cost for Two: 80.0 INR
+2023-08-25 11:03:21,615 - Restaurant: MoMo Café - Courtyard by Marriott, Address: Sarjapur Main Road, Outer Ring Road, Marathahalli, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 11:03:22,752 - Restaurant: Meat And Eat, Address: 57, Panathur Main Road, Kadubeesanahalli, Panathur, Bengaluru, Cost for Two: 150.0 INR
+2023-08-25 11:03:25,339 - Restaurant: Five Star Chicken - Kadubeesanahali, Address: 194, Panathur Main Road, Kadubeesanahalli, Panathur, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 11:03:48,876 - API queries_quota: 60
+2023-08-25 11:05:04,444 - API queries_quota: 60
+2023-08-25 11:05:25,593 - API queries_quota: 60
+2023-08-25 11:05:28,001 - Restaurant: Five Star Chicken, Address: 20, Vishwanath Naganahalli Main Road, Chinana Layout, Vishwanatha Naganahalli, Hebbal, Bengaluru, Cost for Two: 150.0 INR
+2023-08-25 11:05:30,421 - Restaurant: Suguna Tender Chicken, Address: 38, Vishwanath Naganahalli Main Road, Patel Muniyappa Layout, Vishwanatha Naganahalli, Hebbal, Bengaluru, Cost for Two: 150.0 INR
+2023-08-25 11:05:32,037 - Restaurant: Star Chicken Center, Address: 2JM3+7W4, Near-Sagam Jewelery, Kanaka Nagar, Hebbal, Bengaluru, Cost for Two: 150.0 INR
+2023-08-25 11:05:36,417 - Restaurant: Al Khair Food Junction, Address: near Railway Gate, 14th Cross Road, Kanakanagar, KHB Road, near Railway Gate, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 11:05:38,706 - Restaurant: Hotel Sri Ganesh Bhavan - Non Veg, Address: 2JP2+2G3, Cholanayakanahalli Main Road, Near-Goutham College, R T Nagar Post, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 11:05:42,227 - Restaurant: Bidadi, Address: 2HPX+4GM, Hebbal, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 11:05:44,977 - Restaurant: MD:FASEL, Address: 2HPX+4GM, Hebbal, Bengaluru, Cost for Two: 260.0 INR
+2023-08-25 11:05:46,477 - Restaurant: Hotel Durga Devi, Address: 2HPX+5G5, Chamudi Nagar Main Road, Cholanayakanahalli, R T Nagar Post, Next To-Petrol Bunk, Hebbal, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 11:05:48,420 - Restaurant: Hotel Kukke Shri, Address: 3, Thimakka Layout, Coconut Garden, Cholanayakanahalli, Hebbal, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 11:05:49,778 - Restaurant: Xhccnn, Address: 2HPX+4JR, Hebbal, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 11:05:52,039 - Restaurant: Apna Punjabi Dhaba Pure Veg, Address: 2Hpx+4Jr, 2, Coconut Garden, Cholanayakanahalli, Hebbal, Bengaluru, Cost for Two: 150.0 INR
+2023-08-25 11:05:53,541 - Restaurant: Bharath Chicken Center, Address: India, Cost for Two: 250.0 INR
+2023-08-25 11:05:55,102 - Restaurant: RAMBHAJAN MISHR, Address: Hebbal Main Road, Bengaluru, Cost for Two: 100.0 INR
+2023-08-25 11:05:56,717 - Restaurant: Udupi Inn, Address: 2HPX+3JH, Hebbal, Bengaluru, Cost for Two: 300.0 INR
+2023-08-25 11:05:57,822 - Restaurant: Chinese Wok, Address: Main, Hebbal, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 11:05:59,474 - Restaurant: AbdulRaheem Biryani House, Address: No 1, Habbal Main Road 3rd Cross, Hebbal, Bengaluru, Cost for Two: 250.0 INR
+2023-08-25 11:06:00,909 - Restaurant: Poorvika Hotel, Address: Sbi Atm, 1, Chola Nagar, Hebbal, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 11:06:51,964 - API queries_quota: 60
+2023-08-25 11:07:07,111 - Restaurant: Best Of Bengal, Restaurant, Address: Service Road; Maratahalli-Sarjapura, Outer Ring Road, Kadubeesanahalli, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 11:07:13,063 - Restaurant: Udupi Fast food, Address: WMMV+H5H, New Horizon College of Engineering, Outer Ring Road, Near Marathalli, Bellandur Main Road, Bengaluru, Cost for Two: 200.0 INR
+2023-08-25 11:07:22,026 - Restaurant: Absolute shawarma, Address: WMMV+VCX, Kaverappa Layout, Kadubeesanahalli, Kadabeesanahalli, Bengaluru, Cost for Two: 140.0 INR
