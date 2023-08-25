@@ -114,7 +114,7 @@ class WebApp:
         margin-bottom: 10px;
       }
     
-      /* Styling for the buttons in the sidebar input boxes 
+      /* Styling for the buttons in the sidebar input boxes  */
       .sidebar .sidebar-content .stNumberInput input[type="number"],
       .sidebar .sidebar-content .stNumberInput input[type="number"]{
         -webkit-appearance: none;
@@ -122,7 +122,7 @@ class WebApp:
         margin: 0;
         -moz-appearance: textfield;
       }
-      */  
+
         
       .sidebar .sidebar-content .stNumberInput input[type="number"] {
         -moz-appearance: textfield;
