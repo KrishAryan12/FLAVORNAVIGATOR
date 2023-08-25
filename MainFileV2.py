@@ -21,9 +21,6 @@ def run(budget, location, distance):
     latitude = geocode_result[0]['geometry']['location']['lat']
     longitude = geocode_result[0]['geometry']['location']['lng']
 
-    #print(f"Latitude: {latitude}")
-    #print(f"Longitude: {longitude}")
-
     # Geocoding an address
     location = (latitude, longitude)
     radius = distance
@@ -33,7 +30,7 @@ def run(budget, location, distance):
     nearby_places = gmaps.places_nearby(
         location=location,
         radius=radius,
-        type='restaurant'  # Specify the type of place you're looking for
+        type='restaurant' 
     )
 
     # Extract relevant information from the API response
